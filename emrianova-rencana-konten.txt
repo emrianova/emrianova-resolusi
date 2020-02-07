@@ -3,7 +3,10 @@ RENCANA KONTEN EMRIANOVA
 - Javascript
   * ES 6
   * Framework Javascript
+    ^ Fue
 - Struktur Data Dasar
 - PHP Frameworks
+  ^ Laravel
 - Interview
 - Vlogs
+- Python
